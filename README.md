@@ -1,6 +1,28 @@
-# 💫 About Me:
-I am currently mastering frontend development through The Odin Project, focusing on advancing my React skills. I'm actively seeking opportunities (internship/remote) to expand and showcase my expertise.<br><br>Feel free to ask me about the intersection of tech and business!<br><br>Fun fact: I'm a drummer who loves music and enjoys playing chess.
+# Hi, I'm Ozioma 👋
 
+I'm a full-stack web developer on a mission to master the web from the inside out — not just to build, but to **understand, solve, and scale.** I specialize in crafting powerful systems and interfaces for real-world applications, especially in e-commerce, business automation, and information verification.
+
+### 🚀 What I'm Building
+- **TruthCheck** – a multilingual fact-checker platform built with the MERN stack, TypeScript, and LibreTranslate.
+- **Directed Bill Payment System** – a PERN stack backend for creating, bundling, and managing targeted bill payments.
+- **Strategic eCommerce Templates** – brand-first WooCommerce builds designed for African SMEs.
+
+### 🎯 What I Care About
+- **Deep mastery** of web fundamentals (HTML, CSS, JavaScript) and beyond
+- Building **authentic personal brands** through design, strategy, and code
+- Creating tools that bring **clarity, speed, and value** to businesses
+- Teaching and documenting the journey for the next-gen devs
+
+### 🛠️ Current Stack
+- **Frontend**: React, Next.js, Tailwind, Figma (UI/UX in progress)  
+- **Backend**: Node.js, Express, TypeScript, PostgreSQL, MongoDB, Prisma, Redis  
+- **Other Tools**: Git, Docker, Postman, Notion, VS Code
+
+### 📚 2025 Focus
+- Backend engineering mastery  
+- UI/UX for e-commerce systems  
+- Scaling with performance and architecture in mind  
+- Content creation: building in public via Instagram, YouTube, and Shorts
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theoziomaegole) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theoziomaegole) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theoziomaegole) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theoziomaegole) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theoziomaegole) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theoziomaegole) 
