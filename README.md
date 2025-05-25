@@ -14,9 +14,9 @@ I'm a full-stack web developer on a mission to master the web from the inside ou
 - Teaching and documenting the journey for the next-gen devs
 
 ### 🛠️ Current Stack
-- **Frontend**: React, Next.js, Tailwind, Figma (UI/UX in progress)  
+- **Frontend**: React, boostrap, Tailwind, Figma (UI/UX in progress)  
 - **Backend**: Node.js, Express, TypeScript, PostgreSQL, MongoDB, Prisma, Redis  
-- **Other Tools**: Git, Docker, Postman, Notion, VS Code
+- **Other Tools**: Git, Postman, VS Code
 
 ### 📚 2025 Focus
 - Backend engineering mastery  
