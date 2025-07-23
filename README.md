@@ -3,9 +3,10 @@
 I'm a full-stack web developer on a mission to master the web from the inside out — not just to build, but to **understand, solve, and scale.** I specialize in crafting powerful systems and interfaces for real-world applications, especially in e-commerce, business automation, and information verification.
 
 ### 🚀 What I'm Building
+- **MusicHub** – A platform for booking musicians, a home for musicians and music lovers,
 - **TruthCheck** – a multilingual fact-checker platform built with the MERN stack, TypeScript, and LibreTranslate.
 - **Directed Bill Payment System** – a PERN stack backend for creating, bundling, and managing targeted bill payments.
-- **Strategic eCommerce Templates** – brand-first WooCommerce builds designed for African SMEs.
+
 
 ### 🎯 What I Care About
 - **Deep mastery** of web fundamentals (HTML, CSS, JavaScript) and beyond
